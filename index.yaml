@@ -174,10 +174,10 @@ entries:
       catalog.cattle.io/scope: management
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
-    appVersion: 0.1.0
+    appVersion: 0.1.1
     created: "2024-02-14T15:37:07.335825-03:00"
     description: Adds a new UK localisation
-    digest: a0410a57fac36653ddaa23f3df86a52a6d7eea15e4fd5d1359772fcb0b05616f
+    digest: afe0c226d2a06d12935029926b40b49985d95cd05f21705871a525366041629f
     icon: https://raw.githubusercontent.com/rancher/ui-plugin-examples/main/pkg/uk-locale/uk-locale.svg
     name: uk-locale
     type: application
